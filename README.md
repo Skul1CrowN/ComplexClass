@@ -1,3 +1,3 @@
 # ComplexClass
-Test about class Complex Number/n
+Test about class Complex Number
 Work in progress
